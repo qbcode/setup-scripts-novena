@@ -52,6 +52,7 @@ git checkout ${MACHINE}
 # If an env already exists, use it, otherwise generate it
 #--------------------------------------------------------------------------
 
+eval OE_ENV_FILE=${OE_ENV_FILE}
 if [ -e ${OE_ENV_FILE} ] ; then
     . ${OE_ENV_FILE}
 fi
