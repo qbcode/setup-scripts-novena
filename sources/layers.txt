@@ -1,7 +1,7 @@
 bitbake,git://github.com/openembedded/bitbake.git,master,b1dbc24ebcc4e5100c32568c2c41fd982fb4bcce
-meta-angstrom,git://github.com/Angstrom-distribution/meta-angstrom,angstrom-v2012.05-yocto1.2,HEAD
-meta-openembedded,git://github.com/openembedded/meta-oe.git,denzil,HEAD
+meta-angstrom,git://github.com/Angstrom-distribution/meta-angstrom,angstrom-v2012.05-yocto1.2,4e15bc5f06ae3c5ad3df1b32a304a4a4c384e788
+meta-openembedded,git://github.com/openembedded/meta-oe.git,denzil,e77646bc2cf905fd671fc5c19ab6fd17f9b94b3f
 meta-browser,git://github.com/OSSystems/meta-browser.git,master,c47f59df2e723495679c751cbdf6a8c6adec4b6a
 meta-mono,git://git.yoctoproject.org/meta-mono.git,master,83f8233b0498aadb18bf7605c3ba6c71d9e13a3a
-openembedded-core,git://github.com/openembedded/oe-core.git,denzil,HEAD
+openembedded-core,git://github.com/openembedded/oe-core.git,denzil,c15fae372cf75403facc28cf76f973b1279425dd
 meta-kosagi,git://github.com/sutajiokousagi/meta-kosagi.git,novena,HEAD
